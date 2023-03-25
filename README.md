@@ -1,9 +1,9 @@
 # Hi, I’m @NilsMattDev , 
-I am a Web Developer interested in developing Web Applications using JavaScript (NodeJS + React).    I have experience with:
+I am a Web Developer interested in developing Web Applications using TypeScript/JavaScript (NodeJS + React).    I have experience with:
+- JavaScript / TypeScript
 - HTML
-- JavaScript
 - CSS
-- PHP
+- PHP (Symphony, TWIG - Drupal, Shopware)
 - C / C++ (Arduino)
-- Java (Android Apps basics)
+- Java (Android Apps Basics)
 - Python
